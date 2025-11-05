@@ -1,27 +1,41 @@
-# Cricket Management System
+# 🏏 Cricket Management System
 
-A Java-based GUI application to manage cricket matches, teams, venues, and schedules. This project provides an intuitive interface for efficient tournament and match management, including automatic match ID generation and easy data entry.
+A **Java-based GUI application** designed to manage cricket tournaments efficiently.  
+This system allows users to organize **players, teams, venues, and match schedules** through an interactive and user-friendly interface built with **Java Swing**.  
+It demonstrates real-world use of **Queue data structure (FIFO)** for effective data handling and record management.
 
-## Features
+---
 
-- Manage cricket matches with team details and match dates.
-- Automatic Match ID generation for unique identification.
-- Add, update, and view teams and venues.
-- User-friendly GUI built with Java Swing.
-- Organize and track cricket tournaments efficiently.
+## 🚀 Key Features
 
-## Screenshots
-s
-![1](https://github.com/user-attachments/assets/a2480322-24b0-4bcc-af48-86052c244daf)
+✅ **Comprehensive Match Management** – Add, update, and view match details including teams, venues, and results.  
+✅ **Automatic ID Generation** – Each match or record is assigned a unique ID automatically.  
+✅ **Team & Player Management** – Store and manage team names, captains, and player statistics.  
+✅ **Dynamic Queue Operations** – Implements `enqueue()`, `dequeue()`, and `peek()` for record organization.  
+✅ **Interactive GUI** – Built using **Java Swing**, offering buttons, tables, and pop-up dialogs for smooth interaction.  
+✅ **User-Friendly Interface** – Intuitive layout for easy navigation between Players, Matches, and Teams.  
+✅ **Efficient Tournament Tracking** – Manage multiple matches and teams while maintaining performance and order.
 
-## Technologies Used
+---
+
+## 🖼️ Screenshots
+
+![Uploading image.png…]()
+
+
+---
+
+## 🧠 Technologies Used
 
 - **Programming Language:** Java  
-- **GUI Framework:** Swing  
-- **IDE:** NetBeans / Eclipse (optional)  
+- **GUI Framework:** Java Swing  
+- **Data Structure:** Queue (FIFO)  
+- **IDE:** NetBeans / Eclipse (recommended)  
 
-## Installation
+---
 
-1. Clone the repository:  
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/CricketManagementSystem.git
